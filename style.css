@@ -1,0 +1,24 @@
+    .contenedor{
+        background-image: url(fondo.jpg);
+        width: 80%;
+        margin: auto;
+    }
+    .address1{
+        text-align: center;
+        display: inline-block;
+        width: 20%;
+    }
+    .title{
+        text-align: center;
+        display: inline-block;
+        width: 50%;
+    }
+    .contenido1{
+        background: red;
+        padding: 50px;
+    }
+    .section1{
+        display: inline-block;
+        width: 33%;
+        background: blue;
+    }
