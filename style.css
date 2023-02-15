@@ -73,7 +73,14 @@ h1{
         display: inline-block;
         width: 60%;
     }
-   
+    .end p{
+        display: inline; 
+        top: -80px;
+    }
+    #brocoli{
+        display: inline;
+        width: 50%;
+   }
     .footer{
         width: 500px;
         position: relative;
